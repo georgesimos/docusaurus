@@ -15,6 +15,9 @@
       "doc3": {
         "title": "This is document number 3"
       },
+      "doc9": {
+        "title": "This is Doc 9"
+      },
       "doc4": {
         "title": "Other Document"
       },
